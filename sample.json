@@ -1,0 +1,384 @@
+{
+  "id": "INITIAL_SET_V2",
+  "pages": [
+    {
+      "header": null,
+      "nodes": [
+        {
+          "id": "INITIAL_SET_V2-q1",
+          "type": "MULTIPLE_SELECTION",
+          "text": "How will you use your Blockchain.com Account?",
+          "instructions": "We are require to collect this information for regulatory reasons.",
+          "children": [
+            {
+              "id": "INITIAL_SET_V2-q1-a1",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "\uD83D\uDCB0 Invest (buy, hold, sell) crypto"
+            },
+            {
+              "id": "INITIAL_SET_V2-q1-a2",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "\uD83D\uDD01 Active Crypto trading"
+            },
+            {
+              "id": "INITIAL_SET_V2-q1-a3",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "\uD83D\uDCB3 Online payments"
+            },
+            {
+              "id": "INITIAL_SET_V2-q1-a4",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "\uD83D\uDCF2 Sending payments to friends & family"
+            }
+          ]
+        },
+        {
+          "id": "INITIAL_SET_V2-q2",
+          "type": "SINGLE_SELECTION",
+          "text": "What’s your expected annual investment with us?",
+          "instructions": "We are require to collect this information for regulatory reasons.",
+          "children": [
+            {
+              "id": "INITIAL_SET_V2-q2-a1",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Less than $10,000"
+            },
+            {
+              "id": "INITIAL_SET_V2-q2-a2",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "$10,000 to $100,000"
+            },
+            {
+              "id": "INITIAL_SET_V2-q2-a3",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "$100,001 to $250,000"
+            },
+            {
+              "id": "INITIAL_SET_V2-q2-a4",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "$250,000+"
+            }
+          ]
+        },
+        {
+          "id": "INITIAL_SET_V2-q3",
+          "type": "SINGLE_SELECTION",
+          "isDropdown": true,
+          "text": "What’s your source of funds?",
+          "instructions": "We are require to collect this information for regulatory reasons.",
+          "children": [
+            {
+              "id": "INITIAL_SET_V2-q3-a1",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Salary or Business income"
+            },
+            {
+              "id": "INITIAL_SET_V2-q3-a2",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Investments (stocks, crypto, etc.)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q3-a3",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Savings or Inheritance"
+            },
+            {
+              "id": "INITIAL_SET_V2-q3-a4",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Loans or Financing"
+            }
+          ]
+        },
+        {
+          "id": "INITIAL_SET_V2-q4",
+          "type": "SINGLE_SELECTION",
+          "isDropdown": true,
+          "text": "Can you specify your industry?",
+          "instructions": "We are require to collect this information for regulatory reasons.",
+          "children": [
+            {
+              "id": "INITIAL_SET_V2-q4-a1",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Agriculture, Forestry & Fishing"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a2",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Arts & Media"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a3",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Casinos & Gaming"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a4",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Construction & Manufacturing"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a5",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Cryptocurrency Business"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a6",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Defense & Aerospace"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a7",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Education"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a8",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Energy (Oil & Gas)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a9",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Entertainment"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a10",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Entertainment (Adult)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a11",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Financial Services (Traditional)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a12",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Finance (Cash Conversion, Pawn Shops)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a13",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Finance (Unlicensed Trading & MSBs)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a14",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Government"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a15",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Health & Fitness"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a16",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Healthcare / Pharmaceuticals"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a17",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Hospitality"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a18",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Marijuana Related Business"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a19",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Non-Profit & Charity (Non-Registered)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a20",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Non-Profit & Charity (Registered)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a21",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Political or Religious Groups"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a22",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Professional Services (Legal, Consulting)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a23",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Real Estate"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a24",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Regulated Business (Weapons, Tobacco, Liquor)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a25",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Retail (Jewelry, Antiques, Cultural Artifacts)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a26",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Retail (Other)"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a27",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Technology & IT"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a29",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Transportation"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a30",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Unemployed"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a31",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Retired"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a32",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Student"
+            },
+            {
+              "id": "INITIAL_SET_V2-q4-a33",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "All Other Industries & Services"
+            }
+          ]
+        },
+        {
+          "id": "INITIAL_SET_V2-q5",
+          "type": "SINGLE_SELECTION",
+          "text": "Are you acting on your behalf?",
+          "instructions": "We are require to collect this information for regulatory reasons.",
+          "children": [
+            {
+              "id": "INITIAL_SET_V2-q5-a1",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Yes"
+            },
+            {
+              "id": "INITIAL_SET_V2-q5-a2",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "No"
+            }
+          ]
+        },
+        {
+          "id": "INITIAL_SET_V2-q6",
+          "type": "SINGLE_SELECTION",
+          "text": "Are you a Politically Exposed Person (PEP)",
+          "instructions": "(Select only one)",
+          "children": [
+            {
+              "id": "INITIAL_SET_V2-q6-a1",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "No"
+            },
+            {
+              "id": "INITIAL_SET_V2-q6-a2",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Yes, I am"
+            },
+            {
+              "id": "INITIAL_SET_V2-q6-a3",
+              "type": "SELECTION",
+              "checked": false,
+              "text": "Yes, My Family Member Or Close Associate Is",
+              "children": [
+                {
+                  "id": "INITIAL_SET_V2-q6-a3-a1",
+                  "type": "OPEN_ENDED",
+                  "input": "",
+                  "text": "First Name",
+                  "hint": "John "
+                },
+                {
+                  "id": "INITIAL_SET_V2-q6-a3-a2",
+                  "type": "OPEN_ENDED",
+                  "input": "",
+                  "text": "Last Name",
+                  "hint": "John Smith"
+                },
+                {
+                  "id": "INITIAL_SET_V2-q6-a3-a3",
+                  "type": "OPEN_ENDED",
+                  "input": "",
+                  "text": "Position",
+                  "hint": "Position"
+                },
+                {
+                  "id": "INITIAL_SET_V2-q6-a3-a4",
+                  "type": "DATE",
+                  "input": "",
+                  "text": "Date of Birth",
+                  "hint": "DD/MM/YYYY"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
